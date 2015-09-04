@@ -1,0 +1,13 @@
+c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\bin\Debug\fantasyapp.exe.config
+c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\obj\Debug\fantasyapp.csprojResolveAssemblyReference.cache
+c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\obj\Debug\fantasyapp.MyFantasyApp.resources
+c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\obj\Debug\fantasyapp.Properties.Resources.resources
+c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\obj\Debug\fantasyapp.csproj.GenerateResource.Cache
+c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\bin\Debug\fantasyapp.exe
+c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\bin\Debug\fantasyapp.pdb
+c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\obj\Debug\fantasyapp.exe
+c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\obj\Debug\fantasyapp.pdb
+c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\bin\Debug\fantasyapp.exe.manifest
+c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\bin\Debug\fantasyapp.application
+c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\obj\Debug\fantasyapp.exe.manifest
+c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\obj\Debug\fantasyapp.application
