@@ -42,24 +42,42 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fantasyapp.exe" size="10688">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fantasyapp.exe" size="16320">
       <assemblyIdentity name="fantasyapp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>CID81coCXn919oNQushvFzh7ao3Xhn9kDsHKnGjuxNI=</dsig:DigestValue>
+        <dsig:DigestValue>UtrfHOjRRYUqan6H1CxnFjEbt+h6qxgcJ7zMCHo3TXs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="fantasyapp.exe.config" size="187">
+  <file name="fantasy.mdf" size="3211264" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+      <dsig:DigestValue>NWgH3DIVso+rlqUDVtXc5iPy+3u/Z1+SUEbgf8Uzk0w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="fantasy_log.ldf" size="802816" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nd0h5GI3WDIqsSbsdgwB6Qfssg1TRp1Kse+RvlRpbjM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="fantasyapp.exe.config" size="561">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HommPlwx6OBlbo7w6EOwEH+onyt+GgtGZGNJ6VppHgA=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

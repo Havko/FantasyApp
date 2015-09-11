@@ -11,3 +11,5 @@ c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\bin\
 c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\bin\Debug\fantasyapp.application
 c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\obj\Debug\fantasyapp.exe.manifest
 c:\users\y49592\documents\visual studio 2013\Projects\fantasyapp\fantasyapp\obj\Debug\fantasyapp.application
+C:\Users\y49592\Documents\Visual Studio 2013\Projects\fantasyapp\fantasyapp\bin\Debug\fantasy.mdf
+C:\Users\y49592\Documents\Visual Studio 2013\Projects\fantasyapp\fantasyapp\bin\Debug\fantasy_log.ldf
