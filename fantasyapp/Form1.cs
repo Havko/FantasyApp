@@ -19,7 +19,8 @@ namespace fantasyapp
         public MyFantasyApp()
         {
             InitializeComponent();
-            qb.Text = Reader.Read();
+            string qbName = XMLRead.ReadXML();
+            qb.Text = qbName;
         }
 
        
@@ -36,9 +37,10 @@ namespace fantasyapp
         {
             qbUpdate.Visible = false;
             confirmUpdate.Visible = false;
-            //qb.Text = qbUpdate.Text;
+            qb.Text = qbUpdate.Text;
+            XMLWrite.WriteXML(qbUpdate.Text);
+
             
-            //Writer.Write(qbUpdate.Text);
             
         }
 
