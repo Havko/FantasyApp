@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fantasyapp.exe" size="16832">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fantasyapp.exe" size="17344">
       <assemblyIdentity name="fantasyapp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FsMkcbt/us0ltVE68wza59jhu3eQkDvX6dxoU/j7/qI=</dsig:DigestValue>
+        <dsig:DigestValue>DU7ov4KKK8GhNh/qCp7fotmD/ZNkd4d1ttnBR9/CsRA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
